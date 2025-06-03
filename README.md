@@ -10,8 +10,8 @@ Bacharel em Sistemas de Informação pela Universidade Federal de Sergipe, com f
 Estou sempre em busca de expandir meus conhecimentos em matemática, física e estatística, aplicando esses saberes na solução de desafios na área de dados. Além disso, exploro constantemente tecnologias de back-end para desenvolver soluções inovadoras e eficientes. 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Welison92&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Welison92&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Welison92&show_icons=true&theme=light&text_color=000080&title_color=000080)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Welison92&layout=compact&theme=light&text_color=000080&title_color=000080)
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
